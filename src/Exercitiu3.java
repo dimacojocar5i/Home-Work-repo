@@ -20,7 +20,7 @@ public class Exercitiu3 {
         System.out.println();
 
         produse.set(1,"Fructe");
-        System.out.println("Cosul cu produsele modificate de la indexul 0 si 1 " + produse);
+        System.out.println("Cosul cu produsele modificate de la indexul 1 " + produse);
 
     }
 }
